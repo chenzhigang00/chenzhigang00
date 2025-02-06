@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Currently major in software engineering
 
 ![smile girl](https://github.com/user-attachments/assets/9ef3d5ac-93ca-44fc-9573-f642a612ff8c)
-)](https://github.com/chenzhigang00)
+
 
 <!---
 chenzhigang00/chenzhigang00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
