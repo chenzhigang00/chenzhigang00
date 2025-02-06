@@ -8,6 +8,8 @@
 
 ![smile girl](https://github.com/user-attachments/assets/9ef3d5ac-93ca-44fc-9573-f642a612ff8c)
 
+![smile girl](https://github.com/user-attachments/assets/9ef3d5ac-93ca-44fc-9573-f642a612ff8c)
+![LLM fake image](https://github.com/user-attachments/assets/4f1c2231-4563-47fa-b8a8-71c52d30a325)
 
 <!---
 chenzhigang00/chenzhigang00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
