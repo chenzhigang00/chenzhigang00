@@ -1,3 +1,6 @@
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HelloWorld🙏🏻, I'm Zhigang Chen! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 - 👋 Hi, I’m @chenzhigang00
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Federated Learning
