@@ -8,7 +8,7 @@
  - 📫 How to reach me: 1312383034@qq.com
  - 😄 Pronouns: Chen
  - ⚡ Fun fact: Currently major in software engineering 
-- SYSU IS MY DREAM, LET'S GO!
+- SYSU IS MY DREAM, LET'S GO! <img src="assets/nyanparrot.gif" width="30" style="padding-bottom: px;"/>
 
 ![smile girl](https://github.com/user-attachments/assets/9ef3d5ac-93ca-44fc-9573-f642a612ff8c)
 
