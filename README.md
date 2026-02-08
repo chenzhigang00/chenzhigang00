@@ -12,6 +12,19 @@
 
 ![python](https://imgs.xkcd.com/comics/python.png)
 
+---
+
+## 📚 Project Overview | 项目概述
+
+Want to learn more about this repository? Check out the detailed project overview:
+- 🇨🇳 [中文版项目概述](PROJECT_OVERVIEW.md)
+- 🇬🇧 [English Project Overview](PROJECT_OVERVIEW_EN.md)
+
+This repository showcases multiple algorithm implementations for the classic **N-Queens Problem**, including:
+- Backtracking with Subset Tree
+- Backtracking with Permutation Tree
+- Branch and Bound with FIFO Queue
+- Branch and Bound with Priority Queue
 
 <!---
 chenzhigang00/chenzhigang00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
