@@ -66,8 +66,8 @@ This project implements **4 different solutions**, demonstrating different algor
 
 #### 4. **Branch and Bound - Priority Queue** (`Priority_Queue.py`)
 - **Algorithm Idea**: Use priority queue (heap) to optimize search order
-- **Data Structure**: Python `heapq` (max heap)
-- **Priority Strategy**: Greater depth means higher priority
+- **Data Structure**: Python `heapq` (simulates max heap using negative values)
+- **Priority Strategy**: Greater depth means higher priority (uses negative depth to make min heap behave as max heap)
 - **Features**: 
   - Intelligently selects nodes to expand
   - May find solutions faster
