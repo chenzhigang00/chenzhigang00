@@ -5,7 +5,7 @@
  - 👀 I’m interested in Artificial Intelligence
  - 🌱 I’m currently learning Federated Learning
  - 💞️ I’m looking to collaborate on project building
- - 📫 How to reach me: 1312383034@qq.com
+ - 📫 How to reach me: zhigangchen00@qq.com
  - 😄 Pronouns: Chen
  - ⚡ Fun fact: Currently major in software engineering 
 - SYSU IS MY DREAM, LET'S GO!  <img src="nyanparrot.gif" width="30" style="padding-bottom: px;"/>
