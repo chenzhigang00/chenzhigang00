@@ -9,7 +9,7 @@
 - **姓名**: Chen Zhigang (陈志刚)
 - **联系方式**: 1312383034@qq.com
 - **学校**: 中山大学 (Sun Yat-sen University - SYSU)
-- **专业**: 软件工程 (Software Engineering)
+- **专业**: 计算机技术 (Computer Science)
 - **兴趣方向**: 人工智能 (Artificial Intelligence)
 - **当前研究**: 联邦学习 (Federated Learning)
 
